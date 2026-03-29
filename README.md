@@ -42,4 +42,4 @@ Setiap folder berisi file latihan sesuai dengan materi yang dipelajari pada pert
 
 ✍️ Author
 
-Widy
+Widya
